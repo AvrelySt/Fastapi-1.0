@@ -1,0 +1,10 @@
+fastapi
+uvicorn[standard]
+
+
+
+
+
+# Dockerfile           # инструкция для сборки образа
+# docker-compose.yml   # оркестрация контейнера
+# requirements.txt     # зависимости Python
